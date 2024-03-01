@@ -31,3 +31,7 @@ There are other things that I'm interested in learning more about so I'll also t
 #### Conventional Commits
 
 This is something that I've always heard about from developers in general but never really gave it a REAL try. Do not get me wrong, I've always commited with clear messages what the code I was writing did following the "companiy's pattern", but never really tried following a real set of rules for this. So for this project I will be following [this set of conventions](https://www.conventionalcommits.org/en/v1.0.0/#specification) and talk about the experience.
+
+### Versioning
+
+This is something that I also never was responsible for and am interested in trying to apply. I will follow the [npm-version](https://docs.npmjs.com/cli/v8/commands/npm-version) format.
